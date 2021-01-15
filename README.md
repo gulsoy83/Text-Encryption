@@ -1,5 +1,7 @@
 # Simple-Encryption-Program
 
+This program encrypts the given text based on the following formula and decrypts it into the original form. Detailed description can be found in hw2.pdf
+
 Example 1:
 INPUTS;
 text: "I love this game."
